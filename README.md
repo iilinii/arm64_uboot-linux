@@ -1,7 +1,7 @@
 # Arm64_Linux_uboot
 I plan to describe:
-1. how to start up with u-boot (draft)
-2. how to execute Linux kernel (preparing)
+1. how to start up with u-boot (draft done)
+2. how to execute Linux kernel (preparing to write)
 3. how the kernel does
 
 
