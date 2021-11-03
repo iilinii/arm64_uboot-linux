@@ -8,6 +8,6 @@ I plan to describe:
 
 I am wonderring if something I wrote is correct
 
-all the u-boot and kernel are base on K3, why? because I found all the device trees are easily found in u-boot and kernel. 
+all the u-boot and kernel are baseed on K3, why? because I found all the device trees are easily found in u-boot and kernel, and the default configuration file. 
 
 Author: David Zhou (Linhai)
